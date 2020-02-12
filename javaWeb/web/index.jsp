@@ -12,5 +12,6 @@
   </head>
   <body>
   $END$
+  <textarea content="asdasfasf"></textarea>
   </body>
 </html>
